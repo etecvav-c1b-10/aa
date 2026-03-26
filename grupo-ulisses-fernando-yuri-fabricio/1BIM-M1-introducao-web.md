@@ -13,11 +13,11 @@ HTTPS
 
 Encontre um elemento HTML da página.
 
-Há elementos como "<Div>"
+Há elementos como <Div
 
 Copie um pequeno trecho do HTML encontrado.
 
-body > div.page-layout__main
+"body > div.page-layout__main"
 
 Questão 4 (Feito por Fernando Augusto):
 Os padrões da Web permitem que sistemas diferentes consigam se comunicar na internet.
