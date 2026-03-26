@@ -1,4 +1,4 @@
-## poiuhytgfds
+## Questionário
 
 
 Questão 3 (Feito por Fabricio Scarpinelli):
@@ -8,6 +8,7 @@ Qual é a URL completa da página acessada?
 https://developer.mozilla.org/pt-BR/
 
 Qual protocolo está sendo utilizado (HTTP ou HTTPS)?
+
 HTTPS
 
 Encontre um elemento HTML da página (por exemplo <h1>, <p> ou <div>).
@@ -28,4 +29,3 @@ Os padrões DNS, HTTP e HTML são a base da internet porque criam uma linguagem 
 Como esses padrões ajudam a garantir que diferentes navegadores e servidores funcionem corretamente.
 
 Os padrões garantem a interoperabilidade ao funcionar como um manual de instruções universal: como navegadores (Chrome, Safari) e servidores seguem as mesmas regras de HTTP para enviar dados e HTML para exibir conteúdo, eles conseguem "falar a mesma língua", assegurando que qualquer site funcione e apareça corretamente em qualquer dispositivo ou software do mundo.
-
